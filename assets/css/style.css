@@ -1,0 +1,68 @@
+body{
+    box-sizing: border-box;
+    background-color: yellow;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center
+
+
+
+}
+header{
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    color: whitesmoke;
+    text-align: center
+}
+.random-number-container{
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center
+}
+#diamond-container{
+    width: 400px;
+    height: 100px;
+    background-color: darkgray;
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+   
+    
+}
+.diamond1{
+    height: 60px;
+    width: 60px;
+    background-color: blue
+
+}
+.diamond2{
+    height: 60px;
+    width: 60px;
+    background-color: violet
+}
+.diamond3{
+    height: 60px;
+    width: 60px;
+    background-color: red
+}
+.diamond4{
+    height: 60px;
+    width: 60px;
+    background-color: cyan
+}
+.suma{
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center
+}
